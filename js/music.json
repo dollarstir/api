@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "fname" :"kofi",
+            "lname":"Danso",
+             "Email": "Dollarstir",
+            "pasword": "Dollar1"
+        }
+    ]
+}
